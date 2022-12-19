@@ -1,0 +1,38 @@
+.card{
+    box-shadow: 2px 2px 8px rgba(0,0,0, .3);
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+  }
+  title{
+    font-size: 30px;
+    color: blue;
+  }
+  
+  body{
+    margin: 0;
+  }
+
+  *{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+
+  .App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 15px;
+    
+  }
+    
+  button{
+
+    font-size: 40px;
+    background-color: darkgrey;
+    text-align:justify; 
+    align-items: center;
+  }
